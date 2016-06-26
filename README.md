@@ -1,5 +1,6 @@
 # xpages.bootstrap-mobAdmin02
 The Registration site derived from the mobileAdmin
+<br/>
 <img src="http://StayAt.org/images/plx/aMobileAdmin02.gif" alt="aMobileAdmin02.gif">
 
 DOWNLOAD .nsf
