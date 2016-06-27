@@ -51,4 +51,3 @@ view online
 
 <a href="http://stayat.org/bootstrap05.nsf/Main.xsp"><img src="http://StayAt.org/images/plx/bootstrap05.gif" alt="bootstrap05.gif"></a>
 
-
