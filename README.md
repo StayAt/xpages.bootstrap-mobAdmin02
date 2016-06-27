@@ -49,5 +49,5 @@ http://stayat.org/nsf/Download_04.zip
 
 view online
 
-<a href="http://stayat.org/bootstrap05.nsf/Main.xsp"><img src="http://StayAt.org/images/plx/bootstrap05.gif" alt="bootstrap05.gif"></a>
+<a href="http://stayat.org/bootstrap05.nsf/Main.xsp"><img src="http://StayAt.org/images/plx/bootstrap005.gif" alt="bootstrap005.gif"></a>
 
